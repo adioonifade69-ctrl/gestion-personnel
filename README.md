@@ -10,9 +10,14 @@ Le projet illustre : **héritage**, **classe abstraite**, **méthodes virtuelles
 
 ## Membres du groupe
 
-- NOM Prénom 1
-- NOM Prénom 2
-- NOM Prénom 3
+- ONIFADE Adio
+- DANDJINOU Alida
+- CAPO-CHICHI Luce
+- BANKOLE Grace
+- KINIFFO Mistourath
+- BOURANDI Worou Alassane
+- BANKOLE Grace
+- PADONOU Socrates
 
 ## Structure du dépôt
 
